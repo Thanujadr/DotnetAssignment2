@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\bin\Debug\net6.0\FindValidDate.exe
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\bin\Debug\net6.0\FindValidDate.deps.json
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\bin\Debug\net6.0\FindValidDate.runtimeconfig.json
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\bin\Debug\net6.0\FindValidDate.dll
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\bin\Debug\net6.0\FindValidDate.pdb
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.AssemblyInfo.cs
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.dll
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\refint\FindValidDate.dll
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.pdb
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\FindValidDate.genruntimeconfig.cache
+C:\Users\Dell\source\repos\FindValidDate\FindValidDate\obj\Debug\net6.0\ref\FindValidDate.dll
